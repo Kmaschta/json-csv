@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "concat-stream": "^1.6.0",
-    "event-stream": "^3.3.4",
+    "event-stream": "3.3.4",
     "lodash": "^4.17.4"
   },
   "scripts": {
